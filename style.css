@@ -1,0 +1,39 @@
+body{
+  background-color: gray;
+}
+
+div{
+  margin: 15px;
+  border: 7px solid greenyellow;
+  border-radius: 10px;
+  text-align: center;
+  width: 600px;
+  height: 50%x;
+}
+
+div h1{
+  color: blue;
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div p{
+  color: black;
+  font-size: 15px;
+  background-color: indigo;
+}
+input{
+
+  padding: 5px;
+ margin: 5px;
+}
+.manu{
+  font-size: 23px;
+  margin-left:70px;
+} 
+.manu a{
+  color: black;
+  padding: 5px;
+  font-family: , sans-serif;
+  text-decoration: none
+  ;
+}
